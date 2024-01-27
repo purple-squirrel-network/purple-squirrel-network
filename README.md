@@ -21,17 +21,19 @@ To get started with the Purple Squirrel Network:
 
 1.  **Clone the Repository**:
     
-    bashCopy code
+    bash
+    Copy code
     
     `git clone https://github.com/purplesquirrelnetwork/purplesquirrelnetwork.git`
     
-2.  **Install Dependencies**: Ensure you have [Node.js](https://nodejs.org/) and [Yarn](https://yarnpkg.com/) installed.
+3.  **Install Dependencies**: Ensure you have [Node.js](https://nodejs.org/) and [Yarn](https://yarnpkg.com/) installed.
     
-    bashCopy code
+    bash
+    Copy code
     
     `yarn install`
     
-3.  **Explore the Documentation**: Dive into the `docs` folder to understand more about the project architecture and token mechanics.
+5.  **Explore the Documentation**: Dive into the `docs` folder to understand more about the project architecture and token mechanics.
     
 
 Contribution Guidelines
