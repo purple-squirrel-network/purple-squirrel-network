@@ -14,6 +14,7 @@ To get started with the Purple Squirrel Network:
 Clone the Repository:
 
 git clone https://github.com/purplesquirrelnetwork/purplesquirrelnetwork.git
+
 Install Dependencies:
 Make sure you have Node.js and Yarn installed.
 
