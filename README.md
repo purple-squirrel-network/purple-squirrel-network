@@ -1,4 +1,4 @@
-Purple Squirrel Network: Harnessing Solana's Latest 'Token Extensions'
+Purple Squirrel Network: Harnessing Solana's Latest 'SPL Token Standards' and Extensions
 ======================================================================
 
 Welcome to the **Purple Squirrel Network** GitHub repository, your portal to our latest innovations in digital assets and blockchain technology. As we gear up for our listing on the Jupiter Exchange, we're excited to share how we're leveraging Solana's groundbreaking 'Token Extensions' to redefine token development.
