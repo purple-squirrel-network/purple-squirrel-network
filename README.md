@@ -16,9 +16,11 @@ Clone the Repository:
 git clone https://github.com/purplesquirrelnetwork/purplesquirrelnetwork.git
 
 Install Dependencies:
+
 Make sure you have Node.js and Yarn installed.
 
 yarn install
+
 Explore the Documentation:
 Dive into the docs folder to understand more about the project architecture and token mechanics.
 
